@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+Name+is+Vishal+Shah)](https://git.io/typing-svg)
 
-<h2 align="center">A passionate Software Engineer from India</h2>
+<h2 align="center">A passionate Software Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalshah84&label=Profile%20views&color=0e75b6&style=flat" alt="vishalshah84" /> </p>
 
