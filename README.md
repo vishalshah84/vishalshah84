@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vishalshah8474@gmail.com**
 
-- 🌏 know more about me <a href="."> **Portfolio** </a>
+- 🌏 know more about me <a href="https://vishalshah84.github.io/portfolio/"> **Portfolio** </a>
 
 - ⚡ Fun fact **I think I am funny**
 
