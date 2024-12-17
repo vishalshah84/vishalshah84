@@ -30,7 +30,7 @@
 
 #### Studying in this moment: 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://sass-lang.com/)
  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalshah84&theme=radical" alt="vishalshah84" /></p>
