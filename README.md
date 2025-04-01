@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalshah84&label=Profile%20views&color=0e75b6&style=flat" alt="vishalshah84" /> </p>
 
-- 🌱 I’m currently Pursuing Massters in Robotics and Autonomous Systems from **ASU**
+- 🌱 I’m currently Pursuing Masters in Robotics and Autonomous Systems from **ASU**
 
 - 📫 How to reach me **vishalshah8474@gmail.com**
 
